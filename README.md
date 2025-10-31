@@ -8,7 +8,7 @@ It provides an immersive experience for architects, designers, and enthusiasts t
 https://youtu.be/EBkB5JMIVYM
 
 ## Repository Link :
-https://github.com/kanyas03/3D_Architecture_ARCHIVIEW-
+https://github.com/kanyas03/3D_ARCHIVIEW-Models/tree/main
 
 
 
