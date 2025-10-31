@@ -33,7 +33,7 @@ https://github.com/kanyas03/3D_ARCHIVIEW-Models/tree/main
 
 ### 1️⃣ Clone the Repository
 ```
-git clone git@github.com:kanyas03/3D_Architecture_ARCHIVIEW-.git
+git clone git@github.com:kanyas03/3D_ARCHIVIEW-Models.git
 cd 3D_Architecture_ARCHIVIEW-
 ```
 
@@ -58,7 +58,7 @@ npm start
 
 ### 3️⃣ Frontend Setup
 ```
-cd ../frontend
+cd frontend
 npm install
 npm run dev
 ```
