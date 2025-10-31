@@ -10,7 +10,7 @@ https://youtu.be/EBkB5JMIVYM
 ## Repository Link :
 https://github.com/kanyas03/3D_Architecture_ARCHIVIEW-
 
-## 🚀 Live Demo
+
 
 ## 🔗 Hosted on Vercel: 
 https://3-d-architecture-archiview-nm5w.vercel.app/
