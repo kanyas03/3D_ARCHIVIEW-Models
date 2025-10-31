@@ -5,7 +5,7 @@ ARCHIVIEW is a full-stack 3D architectural visualization platform that enables u
 It provides an immersive experience for architects, designers, and enthusiasts to explore architectural projects in a visually rich and interactive environment.
 
 ## Project video Link :
-https://youtu.be/EBkB5JMIVYM
+https://youtu.be/jY7ZGp2_E5k
 
 ## Repository Link :
 https://github.com/kanyas03/3D_ARCHIVIEW-Models/tree/main
