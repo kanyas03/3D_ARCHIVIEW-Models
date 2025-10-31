@@ -11,10 +11,6 @@ https://youtu.be/EBkB5JMIVYM
 https://github.com/kanyas03/3D_ARCHIVIEW-Models/tree/main
 
 
-
-## 🔗 Hosted on Vercel: 
-https://3-d-architecture-archiview-nm5w.vercel.app/
-
 ## ✨ Key Features
 
 - 🌐 3D Model Upload: Upload .glb format models with titles and descriptions.
